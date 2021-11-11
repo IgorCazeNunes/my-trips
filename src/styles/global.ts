@@ -26,7 +26,7 @@ const GlobalStyles = createGlobalStyle`
   html, body, #__next {
     height: 100%;
 
-    color: var(---white);
+    color: var(--white);
     background: var(--background);
   }
 
