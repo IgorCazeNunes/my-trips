@@ -2,7 +2,7 @@ import client from 'graphql/client'
 import { GET_PLACES } from 'graphql/queries'
 import { GetPlacesQuery } from 'graphql/generated/graphql'
 
-import HomeTemplate from './Home'
+import HomeTemplate from '../templates/Home'
 
 import { MapProps } from 'components/Map'
 
